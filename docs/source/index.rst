@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+88CLB | Link Vào 88CLB Trang Chủ - Đăng Ký 88CLB Tặng 88k
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88CLB <https://88clb.rsvp/>`_ là nhà cái cá cược trực tuyến đang được đông đảo người chơi tin tưởng và lựa chọn. Với giao diện hiện đại, dễ thao tác cùng hệ thống bảo mật an toàn, 88clb.rsvp mang đến một sân chơi giải trí đa dạng từ cá cược thể thao, casino trực tuyến đến các trò chơi nổ hũ hấp dẫn. Đặc biệt, nhà cái này luôn cung cấp nhiều khuyến mãi hấp dẫn, tỷ lệ cược cao và dịch vụ chăm sóc khách hàng 24/7, đảm bảo người chơi có những trải nghiệm tuyệt vời và an toàn. 88CLB cam kết mang lại môi trường cá cược minh bạch và uy tín hàng đầu,
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 212a Đ. Ba Đình, Phường 10, Quận 8, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0982257443
 
-Contents
---------
+Email: contact@88clb.rsvp
 
-.. toctree::
+Website: https://88clb.rsvp/
 
-   usage
-   api
+#88clb #trangchu88clb #nhacai88clb #dangky88clb #dangnhap88clb
